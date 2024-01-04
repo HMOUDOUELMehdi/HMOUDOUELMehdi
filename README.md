@@ -1,4 +1,4 @@
-Hi there, I'm Hmoudou El Mehdi 👋
+# Hi there, I'm Hmoudou El Mehdi 👋
 
 I'm a CS student with a passion for technology, constantly eager to learn and explore new things. I enjoy delving into challenging projects and experimenting with different tech stacks. Feel free to connect with me or check out my work! (New Account)
 
