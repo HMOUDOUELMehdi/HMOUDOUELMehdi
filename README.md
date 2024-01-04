@@ -2,6 +2,9 @@
 
 I'm a CS student with a passion for technology, constantly eager to learn and explore new things. I enjoy delving into challenging projects and experimenting with different tech stacks. Feel free to connect with me or check out my work! (New Account)
 
+## 📫 Email
+- Email: [elmehdihmoudou0@gmail.com](mailto:elmehdihmoudou0@gmail.com)
+
 # 💫 About Me:
 🔭 Currently immersed in a School Project<br>👯 Eager to collaborate on FullStack Projects<br>🤝 Seeking assistance with ongoing projects<br>🌱 Learning the ins and outs of Laravel<br>💬 Feel free to ask me about anything related to FullStack development
 
